@@ -17,7 +17,7 @@ export default function Navbar() {
         
         {/* Logo Placeholder (Stylized to match their script logo) */}
         <Link href="/" className="flex items-center md:hover:opacity-60 transition-opacity duration-300 shrink-0">
-          <span className="font-serif italic font-medium text-xl leading-none">
+          <span className="font-serif italic font-medium text-xl leading-none text-black">
             mors<span className="font-sans not-italic text-sm text-gray-400">~</span>
           </span>
         </Link>
